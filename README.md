@@ -140,6 +140,9 @@ streamlit run frontend/streamlit_app.py
 ```
 
 ---
+##Aritecture Diagram
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/fd81d744-982a-4a43-b480-dcae5512bacb" />
+
 
 ## Project Directory Structure  
 ```
